@@ -89,10 +89,11 @@ For assistance, please contact ScaleKit support or open an issue in this reposit
 ## Additional Resources
 
 - 📚 [Scalekit Documentation](https://docs.scalekit.com)
-- 🔧 [API Reference](https://docs.scalekit.com/apis)
-- 💬 [Community Support](https://github.com/scalekit-inc/scalekit-sdk-node-js/discussions)
-- 🎯 [Get Started Guide](https://docs.scalekit.com/quick-start-guide)
-- ⚡ [Next.js Integration Guide](https://docs.scalekit.com/integrations/nextjs)
+- 🔧 [API Reference](https://docs.scalekit.com/apis/)
+- 🚀 [Full Stack Auth Quickstart](https://docs.scalekit.com/fsa/quickstart/)
+- 🔗 [SSO Integration Guide](https://docs.scalekit.com/sso/quickstart/)
+- 💬 [Community Examples](https://github.com/orgs/scalekit-developers/repositories)
+- ⚡ [Next.js Example](https://github.com/scalekit-developers/scalekit-nextjs-demo)
 
 ## Contributing
 
