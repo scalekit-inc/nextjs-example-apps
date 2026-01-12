@@ -1,3 +1,5 @@
+> **⚠️ IMPORTANT NOTE:** For the most up-to-date and comprehensive ScaleKit authentication example with Next.js, please refer to our dedicated [scalekit-nextjs-auth-example](https://github.com/scalekit-inc/scalekit-nextjs-auth-example) repository. It contains the latest best practices, more complete implementation details, and additional features not covered in this example.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
